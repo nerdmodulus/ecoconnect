@@ -6,7 +6,7 @@ window.ECO_CONFIG = {
 
   // 1) Pega aquí la URL de tu Apps Script (termina en /exec).
   //    Si la dejas vacía, la app funciona igual pero sin registro en Google Sheets.
-  APPS_SCRIPT_URL: "",
+  APPS_SCRIPT_URL: "https://script.google.com/macros/s/AKfycbyq5R0Ke8oOO_632-GvAVhPCHecAh1-HwNazKWseXTs6Dj6tPQ6JXiWN9VUzshXF8-L/exec",
 
   // 2) Segundos que tarda la "administración" en responder una solicitud
   //    desde que llega (simulación). Para probar rápido: agrega ?demora=3 a la URL.
